@@ -15,32 +15,33 @@ Create compelling visuals to analyze trends and patterns in the dataset.
 Answer key business and analytical questions through meaningful charts and dashboards.
 
 # Business Questions & Visual Solutions
-1. How many earthquakes had resulted in a tsunami?
+# 1. How many earthquakes had resulted in a tsunami?
 Visual Used: Pie Chart
 
 Goal: Highlight the proportion of earthquakes that caused tsunamis versus those that did not.
 
-2. What is the global distribution of earthquake magnitudes?
+# 2. What is the global distribution of earthquake magnitudes?
 Visual Used: Map Chart
 
 Goal: Showcase earthquake magnitudes around the world by geographic location.
 
-3. How did earthquake magnitudes fluctuate in Peru and Russia?
+#3. How did earthquake magnitudes fluctuate in Peru and Russia?
 Visual Used: Line Chart or Bar Chart (depending on data size and granularity)
 
 Goal: Compare magnitude variations over time between the two countries.
 
-4. What is the relationship between earthquake magnitude and significance level?
+# 4. What is the relationship between earthquake magnitude and significance level?
 Visual Used: Scatter Plot
 
 Goal: Examine if higher magnitudes correlate with higher significance levels.
 
 Insight: Interpretation of this chart reveals the strength of correlation between these variables.
 
-5. What was the distribution of earthquake magnitudes in the year 2022?
+# 5. What was the distribution of earthquake magnitudes in the year 2022?
 Visual Used: Histogram or Box Plot
 
-Goal: Display the frequency and spread of magnitudes during 2022.
+# Goal: Display the frequency and spread of magnitudes during 2022.
+![DASHBOARD](https://github.com/Mainabryan/Data-visualization-in-/blob/main/Dashboard%201.png)
 
 Personalization & Enhancement
 Titles and Labels: All visuals include clear titles and renamed axes to improve readability and interpretation.
