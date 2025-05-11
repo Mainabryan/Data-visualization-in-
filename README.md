@@ -1,1 +1,3 @@
-# Data-visualization-in-
+# TABLAEU VISUALIZION ON EARTHQUAKE WORLD WIDE
+
+![EARTHQUAKE]()
