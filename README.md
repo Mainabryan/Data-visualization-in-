@@ -1,3 +1,3 @@
 # TABLAEU VISUALIZION ON EARTHQUAKE WORLD WIDE
 
-![EARTHQUAKE]()
+![EARTHQUAKE](https://github.com/Mainabryan/Data-visualization-in-/blob/main/ca-times.brightspotcdn.jpg)
